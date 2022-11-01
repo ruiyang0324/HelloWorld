@@ -58,9 +58,4 @@ public class Hello {
 
 
 
-# Eclipse代码练习：
-
-![image-20221101112308216](C:\Users\ruiya\AppData\Roaming\Typora\typora-user-images\image-20221101112308216.png)
-
-![image-20221101112345597](C:\Users\ruiya\AppData\Roaming\Typora\typora-user-images\image-20221101112345597.png)
 
