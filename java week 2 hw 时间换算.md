@@ -47,8 +47,3 @@ public class Main {
 
 
 
-## Eclipse 代码练习
-
-
-
-![image-20221101112730734](C:\Users\ruiya\AppData\Roaming\Typora\typora-user-images\image-20221101112730734.png)
