@@ -21,14 +21,14 @@ public class Main {
                    UTC = 2400 - (800 - BJT);//如果小于8点，减完要倒退到前一天 
                 }
             System.out.println(UTC);
-            } 
+                } 
             else 
-            {
+                {
             System.out.println("错误的输入时间");
-            }
+                }
         } 
         else
-        {
+            {
         System.out.println("错误的输入时间");
         }
         
